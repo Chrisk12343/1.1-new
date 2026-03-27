@@ -26,6 +26,7 @@ A Windows Forms application built with C# for user login and input validation.
 ## Notes
 - Currently in development with validation logic being refined
 - Future improvements planned for authentication functionality
+- make sure you open in solution and not folder
 
 ## Author
 School Project - 1.1-new-main
